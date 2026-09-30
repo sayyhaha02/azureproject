@@ -1,0 +1,15 @@
+{
+	"name": "sumiazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd4809fb-0887-4846-939b-ccff7babe414",
+		"tenantId": "80091a21-6bdf-41e9-afb0-2734887da1e7"
+	}
+}
